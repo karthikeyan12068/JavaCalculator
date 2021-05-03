@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>calculator</title>
+</head>
+<body>
+    <div class="calculator">
+        <div class="output" id="output"> 0</div>
+        <div class="calc-container">
+            <div class="r-1">
+                <button class="r1-1" onclick="forclear()" id="r1-1">C</button>
+                <button class="r1-2" onclick="perc()" id="r1-2">%</button>
+                <button class="r1-3" onclick="getexp('/')" id="r1-3">/</button>
+            </div>
+            <div class="r-2">
+                <button class="r2-1" onclick="getexp('7')" id="r2-1">7</button>
+                <button class="r2-2" onclick="getexp('8')" id="r2-2">8</button>
+                <button class="r2-3" onclick="getexp('9')" id="r2-3">9</button>
+                <button class="r2-4" onclick="getexp('*')" id="r2-4">x</button>
+            </div>
+            <div class="r-3">
+                <button class="r3-1"  onclick="getexp('4')" id="r3-1">4</button>
+                <button class="r3-2" onclick="getexp('5')" id="r3-2">5</button>
+                <button class="r3-3" onclick="getexp('6')" id="r3-3">6</button>
+                <button class="r3-4"  onclick="getexp('-')" id="r3-4">-</button>
+            </div>
+            <div class="r-4">
+                <button class="r4-1" onclick="getexp('1')" id="r4-1">1</button>
+                <button class="r4-2" onclick="getexp('2')" id="r4-2">2</button>
+                <button class="r4-3" onclick="getexp('3')" id="r4-3">3</button>
+                <button class="r4-4" onclick="getexp('+')" id="r4-4">+</button>
+            </div>
+            <div class="r-5">
+                <button class="r5-1" onclick="getexp('0')" id="r5-1">0</button>
+                <button class="r5-2" onclick="getexp('.')" id="r5-2">.</button>
+                <button class="r5-3" onclick="calculate()" id="r5-3">=</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

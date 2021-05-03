@@ -1,0 +1,231 @@
+.calculator {
+  width: 281px;
+  margin: auto;
+  height: 377px;
+  margin-top: 13%;
+
+  border-radius: 25px;
+}
+.calculator .output {
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  margin: auto;
+
+  height: 100px;
+  width: 281px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  background-color: rgb(214, 211, 211);
+  margin-bottom: 10px;
+}
+.calculator .calc-container {
+  margin-top: 10px;
+  width: 500px;
+  height: 500px;
+}
+.calculator .calc-container .r-1 .r1-1 {
+  width: 138px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 138px;
+  height: 45px;
+}
+.calculator .calc-container .r-1 .r1-2 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-1 .r1-3 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-2 .r2-1 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-2 .r2-2 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-2 .r2-3 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-2 .r2-4 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-3 .r3-1 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-3 .r3-2 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-3 .r3-3 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-3 .r3-4 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-4 .r4-1 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-4 .r4-2 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-4 .r4-3 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-2 {
+  margin-top: 10px;
+}
+.calculator .calc-container .r-3 {
+  margin-top: 10px;
+}
+.calculator .calc-container .r-4 {
+  margin-top: 10px;
+}
+.calculator .calc-container .r-5 {
+  margin-top: 10px;
+}
+.calculator .calc-container .r-4 .r4-4 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-5 .r5-1 {
+  width: 138px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  border-bottom-left-radius: 25px;
+
+  width: 138px;
+  height: 45px;
+}
+.calculator .calc-container .r-5 .r5-2 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+
+  width: 67.25px;
+  height: 45px;
+}
+.calculator .calc-container .r-5 .r5-3 {
+  width: 67.25px;
+  height: 45px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  border-bottom-right-radius: 25px;
+
+  width: 67.25px;
+  height: 45px;
+}
+button {
+  border: 2px solid rgb(214, 211, 211);
+  background-color: rgb(214, 211, 211);
+}
+button:hover {
+  cursor: pointer;
+  border: 2px solid black;
+}
